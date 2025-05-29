@@ -1,0 +1,185 @@
+<h2> MAINTENANCE </h2>
+<section class="container" >
+  <div  class="slider">
+    <div class="slide-container">
+      <div class="image">
+<img id="first" src="piezodisc.png" alt="PiezoDisc">
+<div class="text">
+  <p>These are very sensitive sensors, replace if the Piezoelectric transducers are cracked. </p>
+      </div>
+    </div>
+    
+          <div class="image">
+<img id="first" src="PCBAssembly.pngoDisc">
+<div class="text">
+  <p>These are very sensitive sensors, replace if the Piezoelectric transducers are cracked. </p>
+      </div>
+    </div>
+
+ <div class="image" >
+        <img id="third" src="image.png" alt="Rectifier" >
+        <div class="text">
+          <p>Ensure that the AC-DC rectifier and voltage regulation components are working properly.</p>
+          <p>If the LED isn’t lighting up as expected, check diodes and capacitors. Replace if needed.</p>
+        </div>
+      </div>
+
+      <div class="image">
+       <img id="fourth" src="Capacitor.png" alt="Capacitor" >
+     <div class="text">
+          <p>Regularly check for bulging tops, leaks, discoloration, or burn marks—these are signs the capacitor is failing.</p>
+          <p>Use a multi-meter to test capacitance if performance seems off. Replace if needed.</p>
+        </div>
+      </div>
+
+      <div class="image" >
+        <img id="fifth" src="imagee.png" alt="Resistor" >
+        <div class="text">
+          <p>Look for discoloration: Burn marks or darkening could mean overheating. Replace if needed.</p>
+        </div>
+      </div>
+
+  <div class="image" >
+        <img id="sixth" src="LEDAssembly.png" alt="LED" >
+        <div class="text">
+          <p>Make sure the LED hasn’t burnt out or come loose. Replace if necessary.</p>
+        </div>
+      </div>
+
+ <div class="image" >
+        <img id="seven" src="SwitchAssembly.png" alt="Switch" >
+        <div class="text">
+          <p>Clean or replace if faulty.</p>
+        </div>
+      </div>
+
+</section>
+
+
+
+<h2>PRODUCT</h2>
+ <div class="con"> 
+    <section class="feature-container">
+      <div class="feature">
+      <img src="plate.png" alt="Plate">
+      <h3>PLATE</h3>
+      <p>It is positioned atop a rubber surface,<br>
+         providing a stable and cushioned area for<br>
+         the user to step on. Crafted from durable<br>
+         acrylic, this piece features an eye-catching<br>
+         hexagonal shape that enhances both its<br>
+         functionality and aesthetic appeal, making<br>
+         it a striking addition to any space.</p>
+         </div>
+    </section>
+
+     <section class="feature-container">
+    <div class="feature">
+      <img src="rubber.png" alt="Rubber">
+      <h3>RUBBER</h3>
+      <p>The cushion layer sits on top of the<br>
+        wood base to absorb pressure and protect<br>
+        the internal components. This layer is<br>
+        made from strong, shock-absorbing material<br>
+        that reduces impacts and vibrations. It<br>
+        keeps the delicate parts safe and helps the<br>
+        product last longer and work reliably. </p>
+    </div>
+    </section>
+    
+     <section class="feature-container">
+    <div class="feature">
+      <img src="pie.png" alt="Piezo">
+      <h3>PIEZO</h3>
+      <p>This is the device that convert mechanical<br>
+        energy into electrical energy when pressure<br>
+        is applied through footsteps. These components<br>
+        harness the kinetic energy produced by walking<br>
+        or running, transforming it seamlessly into<br>
+        usable electricity.</p>
+      </div>
+    </section>
+
+     <section class="feature-container">
+    <div class="feature">
+      <img src="BASE.png" alt="Base">
+      <h3>WOODEN BASE</h3>
+      <p>The primary support structure for the device is<br>
+        crafted from sturdy wood and designed in a<br>
+        distinct hexagonal shape, providing both strength<br>
+        and stability. This unique geometry not only<br>
+        enhances its aesthetic appeal but also optimizes<br>
+        its functionality, making it a vital component of<br>
+        the overall design.</p>
+      </div>
+    </section>
+ </div>
+
+
+<h2> CONTACTS </h2>
+<div class="pics">
+<section class="pic">
+    <img src="jesse1.JPG" alt="Jesse">
+    <div class="texts">
+          <p>Full Name: Jesse Angelo Maraat<br>
+             Email: jessemaraat@gmail.com<br>
+             Contact No.: 09609295374<br><br>
+             Role Info: Team Leader & Coder</p>
+        </div>
+        </section>
+        </div>
+
+<div class="pics">
+<section class="pic">
+    <img src="kevin1.JPG" alt="Kevin">
+    <div class="texts">
+          <p>Full Name: Kevin Balansag<br>
+             Email: kevinkevs0808@gmail.com<br>
+             Contact No.: 09208083650<br><br>
+             Role Info: Website Designer</p>
+        </div>
+        </section>
+        </div>
+
+<div class="pics">
+<section class="pic">
+    <img src="andrea1.JPG" alt="Andrea">
+    <div class="texts">
+          <p>Full Name: Andrea Marie Amistoso<br>
+             Email: amistosoandrea0gmail.com<br>
+             Contact No.: 09605157131<br><br>
+             Role & Details: Website Designer</p>
+        </div>
+        </section>
+        </div>
+
+<div class="pics">
+<section class="pic">
+    <img src="janica1.png" alt="Janica">
+    <div class="texts">
+          <p>Full Name: Janica Kate Ortigas<br>
+             Email: janicaortigas40@gmail.com<br>
+             Contact No.: 09692815140<br><br>
+             Role & Details: Coder</p>
+        </div>
+        </section>
+        </div>
+
+<div class="pics">
+<section class="pic">
+    <img src="tim1.JPG" alt="Tim">
+    <div class="texts">
+          <p>Full Name: Tim David Mayol <br>
+             Email: timmayol0@gmail.com<br>
+             Contact No.: 09058042309<br><br>
+             Role & Details: Website Designer</p>
+        </div>
+        </section>
+        </div>
+
+
+
+<div class="footer-container">
+    PIEZOLITE © 2025 &nbsp; ALL RIGHTS RESERVED.
+  </div>
+
